@@ -1,0 +1,32 @@
+{
+  "name": "prettier-config",
+  "version": "0.0.1",
+  "description": "Arbetsmyra's Prettier config",
+  "main": "prettier-config.js",
+  "scripts": {
+    "prettier:check": "prettier --config prettier-config.js --check .",
+    "prettier:write": "prettier --config prettier-config.js --write .",
+    "test": "npm run prettier:check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbetsmyra/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "arbetsmyra"
+  ],
+  "author": "Anthon <anthon.kendel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arbetsmyra/prettier-config/issues"
+  },
+  "homepage": "https://github.com/arbetsmyra/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": ">=1.9"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  }
+}
