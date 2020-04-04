@@ -1,6 +1,6 @@
 {
   "name": "prettier-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Arbetsmyra's Prettier config",
   "main": "prettier-config.js",
   "scripts": {
