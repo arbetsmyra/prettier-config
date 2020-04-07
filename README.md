@@ -28,6 +28,15 @@ Once the `@arbetsmyra/prettier-config` package is installed, you can use it by s
 }
 ```
 
+It is recommended to add the following scripts to your `package.json`:
+
+```json
+{
+  "prettier:check": "prettier --check .",
+  "prettier:write": "prettier --write ."
+}
+```
+
 ## Contributing
 
 If you want to contribute and make our project better, your help is very welcome.
