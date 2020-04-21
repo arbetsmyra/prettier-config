@@ -27,7 +27,7 @@
     "prettier": ">=1.9"
   },
   "devDependencies": {
-    "prettier": "2.0.4"
+    "prettier": "2.0.5"
   },
   "renovate": {
     "extends": [
