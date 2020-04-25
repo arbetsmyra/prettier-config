@@ -30,14 +30,14 @@
     "prettier": ">=1.9"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-angular": "^8.3.4",
-    "@commitlint/config-conventional": "^8.3.4",
-    "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/git": "^9.0.0",
-    "husky": "^4.2.5",
+    "@commitlint/cli": "8.3.5",
+    "@commitlint/config-angular": "8.3.4",
+    "@commitlint/config-conventional": "8.3.4",
+    "@semantic-release/changelog": "5.0.1",
+    "@semantic-release/git": "9.0.0",
+    "husky": "4.2.5",
     "prettier": "2.0.5",
-    "semantic-release": "^17.0.7"
+    "semantic-release": "17.0.7"
   },
   "commitlint": {
     "extends": [
