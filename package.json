@@ -6,11 +6,12 @@
   "scripts": {
     "prettier:check": "prettier --config prettier-config.js --check .",
     "prettier:write": "prettier --config prettier-config.js --write .",
-    "test": "npm run prettier:check"
+    "test": "npm run prettier:check",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arbetsmyra/prettier-config.git"
+    "url": "https://github.com/arbetsmyra/prettier-config.git"
   },
   "keywords": [
     "prettier",
@@ -27,7 +28,8 @@
     "prettier": ">=1.9"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "prettier": "2.0.5",
+    "semantic-release": "^17.0.7"
   },
   "renovate": {
     "extends": [
