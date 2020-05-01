@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/arbetsmyra/prettier-config/compare/v1.1.0...v1.2.0) (2020-05-01)
+
+
+### Features
+
+* use common semantic-release package (fixes [#5](https://github.com/arbetsmyra/prettier-config/issues/5)) ([1c72d24](https://github.com/arbetsmyra/prettier-config/commit/1c72d24cfd5fcb654bb4b8cbeb0d700a1627e03a))
+
 # [1.1.0](https://github.com/arbetsmyra/prettier-config/compare/v1.0.3...v1.1.0) (2020-04-25)
 
 
