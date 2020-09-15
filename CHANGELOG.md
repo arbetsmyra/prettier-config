@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/arbetsmyra/prettier-config/compare/v1.2.0...v1.2.1) (2020-09-15)
+
+
+### Bug Fixes
+
+* **deps:** npm audit fix ([3cd3683](https://github.com/arbetsmyra/prettier-config/commit/3cd368354fa6bf0270b388c1ae08c413ede6b51b))
+
 # [1.2.0](https://github.com/arbetsmyra/prettier-config/compare/v1.1.0...v1.2.0) (2020-05-01)
 
 
